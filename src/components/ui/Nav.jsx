@@ -10,7 +10,7 @@ function Nav() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <div className="text-4xl font-bold tracking-wide px-3 py-2 rounded-md">
-          R&N'S SHOP 
+          DeaN*!* SHOP 
         </div>
 
         {/* Search bar (centered on desktop) */}
