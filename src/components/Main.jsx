@@ -28,7 +28,7 @@ function Main() {
   ]
   return (
     
-        <Router>
+        <Router basename="/StoreCar/">
             <Nav/>
             <Routes>
                 <Route path="/" element={<Home/>} />
