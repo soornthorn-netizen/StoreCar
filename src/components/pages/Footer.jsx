@@ -7,7 +7,7 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Brand / About */}
         <div>
-          <h2 className="text-xl font-bold mb-3">R&N'S SHOP</h2>
+          <h2 className="text-xl font-bold mb-3">DeaN*!* SHOP</h2>
           <p className="text-sm leading-relaxed">
             Explore the world's most exclusive cars. Designed for speed, power,
             and luxury.
